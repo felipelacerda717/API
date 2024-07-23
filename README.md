@@ -3,6 +3,7 @@
 #Class Diagram
 mermaid
 
+```mermaid
 
     class Felipe {
         -name: String
