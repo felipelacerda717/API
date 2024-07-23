@@ -1,10 +1,11 @@
 # RESTFUL API
 
 #Class Diagram
-mermaid
 
 ```mermaid
 
+
+classDiagram
     class Felipe {
         -name: String
         +account: Account
