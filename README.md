@@ -3,7 +3,7 @@
 #Class Diagram
 mermaid
 
-classDiagram
+
     class Felipe {
         -name: String
         +account: Account
